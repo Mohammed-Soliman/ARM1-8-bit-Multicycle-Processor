@@ -17,6 +17,7 @@ This educational project demonstrates multicycle processor architecture, control
 An 8-bit implementation of the ARM1 processor architecture using multicycle execution. This project includes complete digital design from logic gates to functional simulation.
 
 ## Project Structure
+```bash
 ARM1-Processor/
 ├── Logisim_Circuit/
 │   ├── processor.circ
@@ -29,6 +30,7 @@ ARM1-Processor/
 │   └── state_table.csv
 └── Documentation/
     └── project_report.pdf
+```
 
 ## Features
 - 8-bit data path with ARM1-inspired instruction set
