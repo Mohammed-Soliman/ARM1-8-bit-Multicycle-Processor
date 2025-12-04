@@ -1,5 +1,5 @@
 # ARM1-8-bit-Multicycle-Processor
-🔧 8-bit ARM1-inspired multicycle processor implementation featuring:
+8-bit ARM1-inspired multicycle processor implementation featuring:
 
 Complete Logisim circuit design
 
